@@ -1,4 +1,4 @@
-# Nopac
+# Javasweeper
 *Version 1.0*
 
 A simple clone of Minesweeper implemented using Java and Swing.
