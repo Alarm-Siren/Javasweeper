@@ -1,6 +1,8 @@
 # Javasweeper
 *Version 1.0*
 
+[![Project Status: Unsupported – The project has reached a stable, usable state but the author(s) have ceased all work on it. A new maintainer may be desired.](https://www.repostatus.org/badges/latest/unsupported.svg)](https://www.repostatus.org/#unsupported)
+
 A simple clone of Minesweeper implemented using Java and Swing.
 
 ## Comments, Requests, Bugs & Contributions
